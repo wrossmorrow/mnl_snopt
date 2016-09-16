@@ -3,4 +3,4 @@ Routine for estimating Multinomial Logit (MNL) models using the SNOPT software (
 
 NOTES: 
 
-9/16/2016: initial upload of historical files. Expected to be incomplete. 
+9/16/2016 (WRM): initial upload of historical files. Expected to be incomplete. 
